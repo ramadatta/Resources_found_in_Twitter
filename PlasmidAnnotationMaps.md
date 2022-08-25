@@ -1,3 +1,3 @@
-Plasmap
-Plasmidraw
-plasmidviewer.git
+- Plasmap
+- Plasmidraw
+- Plasmidviewer.git
